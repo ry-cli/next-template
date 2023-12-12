@@ -1,0 +1,8 @@
+/dist/*
+/build/*
+/public/*
+/dist-electron/*
+/.vite/*
+/out/*
+/release/*
+pnpm-lock.yaml

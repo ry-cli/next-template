@@ -1,0 +1,9 @@
+src/assets
+public
+dist
+build
+dist-electron
+.vite
+out
+release
+pnpm-lock.yaml
